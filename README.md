@@ -6,10 +6,10 @@ Get a list of programming languages and when they were first intoduced and appen
 | lxml | html parser |
 | requests | make a request to a web page |
 | time | add delays to workflows |
-| pymongo | access MongoDB database server |
+| pymongo | access MongoDB server |
 | pickle | [serialization](https://en.wikipedia.org/wiki/Serialization) for saving/loading data structures as files |
-| sqlalchemy | database orm for databases |
-| psycopg2 | access postgresql database server |
+| sqlalchemy | orm for databases |
+| psycopg2 | access postgresql server |
 Project assumes the following is installed:
 * Python 3.8 or above (needed for the [Walrus Operator](https://www.geeksforgeeks.org/walrus-operator-in-python-3-8/#:~:text=Walrus%2Doperator%20is%20another%20name%20for%20assignment%20expressions.&text=The%20Assignment%20expressions%20allow%20a,as%20a%20stand%2Dalone%20statement.))
 * MongoDB
