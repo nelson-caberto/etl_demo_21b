@@ -33,7 +33,8 @@ Notes
 * Add a 1 second delay if html contents are downloaded
 
 #### *transform* 
-1. exclude html content that does not include
+1. iterate over all the data in MongoDB
+2. exclude html content that does not include
     1. "programming language"
     2. the word "First"
     3. the word "appeared"
