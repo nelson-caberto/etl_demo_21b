@@ -79,3 +79,5 @@ Notes
 
 ## Postgresql Schema
 ![ ](schema.png)
+Notes
+* Better constraints can be applied by using the date datatype for the first_appeared and date fields
