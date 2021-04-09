@@ -7,7 +7,7 @@ Get a list of programming languages and when they were first intoduced and appen
 | requests | make a request to a web page |
 | time | add delays to workflows |
 | pymongo | access MongoDB database server |
-| pickle | object [serialization](https://en.wikipedia.org/wiki/Serialization) for saving/loading data as files |
+| pickle | [serialization](https://en.wikipedia.org/wiki/Serialization) for saving/loading data structures as files |
 | sqlalchemy | database orm for databases |
 | psycopg2 | access postgresql database server |
 Project assumes the following is installed:
