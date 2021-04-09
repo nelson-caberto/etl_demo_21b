@@ -29,6 +29,7 @@ Notes
 * In case repeated runs need to be performed check MongoDB if the link that needs to be visited has already been visited if it has skip the request to prevent unessassary bandwidth use
 * Since a simple "get all links" is used there will be an excess of invalid html data
 * Any step where a request or insert fails the data will be skipped
+* Add a 1 second delay if html contents are downloaded
 
 #### *transform* 
 1. exclude html content that does not include
