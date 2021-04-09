@@ -78,4 +78,4 @@ Notes
 * Data failing to flatten or be inserted is skipped
 
 ## Postgresql Schema
-![ ](images/schema.jpg)
+![ ](schema.png)
