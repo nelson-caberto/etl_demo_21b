@@ -62,7 +62,7 @@ Notes
 
 #### *transform*
 
-1. reformat data
+1. reformat data (as per 3NF)
     * input: row - date, rating | column - date, programming language
     * output: tuple (date, programming language, rating)
 2. cast rating into a float
